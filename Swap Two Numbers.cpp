@@ -4,13 +4,11 @@ int main()
 {
     int a = 2, b = 3;
     cout << "Before swapping a = "<<a<<" and b = "<<b
-    << endl;
-    
+    << endl; 
     int temp;
     temp = a;
     a = b;
     b = temp;
-    cout << "After swapping a = "<<a<<" and b = "<<b
-    << endl;
+    cout << "After swapping a = "<<a<<" and b = "<<b << endl;
     return 0;
 }
