@@ -6,7 +6,5 @@ int main()
     cout << "The ASCII value of character '"<<c<<"' is: ";
     int ascii = (int)c;
     cout << ascii << endl;
-    
     return 0;
-
 }
